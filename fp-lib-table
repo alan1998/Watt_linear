@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name JST)(type KiCad)(uri ${KIPRJMOD}/../KiLibs/JST.pretty)(options "")(descr ""))
+  (lib (name Mount)(type KiCad)(uri ${KIPRJMOD}/../KiLibs/Mount.pretty)(options "")(descr ""))
+  (lib (name My_Pin_Headers)(type KiCad)(uri ${KIPRJMOD}/../KiLibs/My_Pin_Headers.pretty)(options "")(descr ""))
+  (lib (name Sensor)(type KiCad)(uri ${KIPRJMOD}/../KiLibs/Sensor.pretty)(options "")(descr ""))
+  (lib (name SMD_Mine)(type KiCad)(uri ${KIPRJMOD}/../KiLibs/SMD_Mine.pretty)(options "")(descr ""))
+  (lib (name VishayTrim)(type KiCad)(uri ${KIPRJMOD}/../KiLibs/VishayTrim.pretty)(options "")(descr ""))
+)
